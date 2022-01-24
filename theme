@@ -23,7 +23,7 @@
     
     /* background and effects */
     body {
-        background-image: url(https://imgur.com/a/TKBDimm) !important;
+        background-image: url("https://imgur.com/a/TKBDimm") !important;
 		background-size: cover;
         background-position: center !important;
         background-repeat: no-repeat;
