@@ -4,8 +4,8 @@
 @version        1.0.0
 @description    botanical theme for monkeytype
 @author         refact0r
-@homepageURL    https://github.com/refact0r/monkeytype-themes
-@updateURL      https://github.com/refact0r/monkeytype-themes/raw/main/botanical.user.css
+@homepageURL    https://github.com/morelikeksien/100--know-mok-is-this/blob/main
+@updateURL      https://github.com/morelikeksien/100--know-mok-is-this/blob/main/theme
 ==/UserStyle== */
 @-moz-document domain("monkeytype.com") {
     /* theme colors */
