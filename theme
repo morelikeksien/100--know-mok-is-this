@@ -1,11 +1,11 @@
 /* ==UserStyle==
-@name           jdentype gardens
+@name           monkeytype botanical
 @namespace      github.com/openstyles/stylus
 @version        1.0.0
 @description    botanical theme for monkeytype
-@author         jden-lor
-@homepageURL    https://github.com/morelikeksien/100--know-mok-is-this/theme
-@updateURL      https://github.com/morelikeksien/100--know-mok-is-this/theme.css
+@author         refact0r
+@homepageURL    https://github.com/refact0r/monkeytype-themes
+@updateURL      https://github.com/refact0r/monkeytype-themes/raw/main/botanical.user.css
 ==/UserStyle== */
 @-moz-document domain("monkeytype.com") {
     /* theme colors */
@@ -40,9 +40,9 @@
     
     /* change logo text */
     #top .logo .text .top:after {
-        content: 'jdentype' !important;
+        content: 'monkeytype' !important;
     }
     #top .logo .text:after {
-        content: 'WOW' !important;
+        content: 'botanical' !important;
     }
 }
