@@ -1,9 +1,9 @@
 /* ==UserStyle==
-@name           monkeytype botanical
+@name           jdentype gardens
 @namespace      github.com/openstyles/stylus
 @version        1.0.0
-@description    botanical theme for monkeytype
-@author         refact0r
+@description    jden's garden theme 
+@author         jden
 @homepageURL    https://github.com/morelikeksien/100--know-mok-is-this/blob/main
 @updateURL      https://github.com/morelikeksien/100--know-mok-is-this/blob/main/theme
 ==/UserStyle== */
@@ -40,9 +40,9 @@
     
     /* change logo text */
     #top .logo .text .top:after {
-        content: 'monkeytype' !important;
+        content: 'jdentype' !important;
     }
     #top .logo .text:after {
-        content: 'botanical' !important;
+        content: 'gardens' !important;
     }
 }
